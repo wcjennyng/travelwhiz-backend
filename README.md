@@ -1,8 +1,6 @@
 # Travel Whiz 
 Welcome to TravelWhiz! This is the site where you can view others' travel experiences and share your own! TravelWhiz is a full-stack application using React (frontend) and Node/Express (backend). 
 
-## Start sharing your travel experiences here: https://travelwhiz.surge.sh
-
 User friendly features include:
 - View other friends' pins
 - Favorite pins
